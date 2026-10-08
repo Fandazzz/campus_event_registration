@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="event_primary">#B62561</color>
+    <color name="event_on_primary">#FFFFFFFF</color>
+    <color name="event_primary_container">#FFD9E5</color>
+    <color name="event_on_primary_container">#3E001D</color>
+    <color name="event_surface">#FFF8FA</color>
+    <color name="event_surface_variant">#F9EAF0</color>
+    <color name="event_on_surface">#24191D</color>
+    <color name="event_outline">#8C707A</color>
+    <color name="event_success">#8E2850</color>
+</resources>

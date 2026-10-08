@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">campus event</string>
+    <string name="event_name">TECH INNOVATION DAY 2026
+</string>
+    <string name="event_image_description">Campus Event logo</string>
+    <string name="event_date">Date: 25 September 2026</string>
+    <string name="event_time">Time: 9:00 AM – 4:00 PM</string>
+    <string name="event_venue">Venue:  Politeknik Kuching Sarawak</string>
+    <string name="event_description">Join fellow students for a day of talks, activities, and campus community.</string>
+    <string name="register_now">REGISTER NOW</string>
+    <string name="view_registrations">VIEW REGISTRATIONS</string>
+    <string name="back">BACK</string>
+    <string name="registrations_title">Student registrations</string>
+    <string name="registrations_subtitle">View, update, or remove saved registration records.</string>
+    <string name="add_registration">ADD REGISTRATION</string>
+    <string name="no_registrations">No registrations saved yet.</string>
+    <string name="update_registration">UPDATE REGISTRATION</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_registration">Delete registration?</string>
+    <string name="delete_confirmation">Remove %1$s\'s registration permanently?</string>
+    <string name="registration_deleted">Registration deleted</string>
+    <string name="registration_summary">Registration No.: %1$s · %2$s</string>
+    <string name="contact_summary">%1$s · %2$s</string>
+    <string name="save_failed">Unable to save registration</string>
+    <string name="registration_number">Registration No.</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="programme">Programme</string>
+    <string name="submit_registration">SUBMIT REGISTRATION</string>
+    <string name="back_to_home">BACK TO HOME</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="label_name">Name: %1$s</string>
+    <string name="label_registration_number">Registration No.: %1$s</string>
+    <string name="label_email">Email: %1$s</string>
+    <string name="label_phone">Phone: %1$s</string>
+    <string name="label_programme">Programme: %1$s</string>
+    <string name="not_provided">Not provided</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <style name="Base.Theme.CampusEvent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/event_primary</item>
+        <item name="colorOnPrimary">@color/event_on_primary</item>
+        <item name="colorPrimaryContainer">@color/event_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/event_on_primary_container</item>
+        <item name="colorSurface">@color/event_surface</item>
+        <item name="colorSurfaceVariant">@color/event_surface_variant</item>
+        <item name="colorOnSurface">@color/event_on_surface</item>
+        <item name="colorOutline">@color/event_outline</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/event_surface</item>
+        <item name="android:navigationBarColor">@color/event_surface</item>
+    </style>
+
+    <style name="Theme.CampusEvent" parent="Base.Theme.CampusEvent" />
+</resources>

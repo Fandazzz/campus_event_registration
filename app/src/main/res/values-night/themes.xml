@@ -1,0 +1,15 @@
+<resources>
+    <style name="Base.Theme.CampusEvent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFB0CB</item>
+        <item name="colorOnPrimary">#650031</item>
+        <item name="colorPrimaryContainer">#8E104B</item>
+        <item name="colorOnPrimaryContainer">#FFD9E5</item>
+        <item name="colorSurface">#1C1115</item>
+        <item name="colorSurfaceVariant">#302126</item>
+        <item name="colorOnSurface">#F1DEE4</item>
+        <item name="colorOutline">#A88A95</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#1C1115</item>
+        <item name="android:navigationBarColor">#1C1115</item>
+    </style>
+</resources>
